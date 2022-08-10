@@ -22,7 +22,7 @@
                             <img src="./publico/img/icono.png">
                         </div>
                         <div class="col">
-                            <h5>Actidad 5 -Comunicacion entre JPS - Servlet - JSP</h5>
+                            <h5>Actidad 1 -Comunicacion entre JPS - Servlet - BD</h5>
                         </div>       
                     </div>
                 </a>
@@ -86,7 +86,7 @@
                         <img src="./publico/img/UTlogo.png">
                     </div>
                     <div class="col">
-                        <h4>Actidad 5 -Comunicacion entre JPS - Servlet - JSP</h4>
+                        <h4>Actidad 5 -Comunicacion entre JPS - Servlet - BD</h4>
                     </div>       
                 </div>
 
